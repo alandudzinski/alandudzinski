@@ -131,7 +131,7 @@ Implemented projects involving:
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,git,github,linux,vscode&perline=7" alt="Frameworks and tools" />
 </p>
 
-**Additional:** pandas, scikit-learn, Scapy, pytest, SQLite, REST concepts, regular expressions
+**Additional:** pandas, Scapy, pytest, SQLite, regular expressions
 
 ---
 
