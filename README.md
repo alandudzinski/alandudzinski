@@ -10,9 +10,9 @@
   <a href="https://www.linkedin.com/in/alan-dudzinski-367311344/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://alandudzinski.com">
+  <!-- <a href="https://alandudzinski.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
   <a href="mailto:adudzinski177@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -164,7 +164,7 @@ Bachelor of Engineering in Computer Engineering, expected May 2029
 <p>
   <a href="mailto:adudzinski177@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/alan-dudzinski-367311344/">LinkedIn</a> •
-  <a href="https://alandudzinski.com">Portfolio</a>
+  <!-- <a href="https://alandudzinski.com">Portfolio</a> -->
 </p>
 
 <p align="center">
